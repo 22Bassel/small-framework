@@ -19,7 +19,7 @@ you will need some external jars :
 11- slf4j-api-1.7.36 . 
 12- slf4j-simple-1.6.1 . 
 
-in DB you have to create a DB called "rds",and the tables :
+for RDP , in DB you have to create a DB called "rds",and the tables :
 1- publickeys : "id" int(11) , 
                 "UID" varchar(128) , 
                 "TheKey" varchar(1024) , 
