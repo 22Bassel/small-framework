@@ -24,7 +24,7 @@ in DB you have to create a DB called "rds",and the tables :
                 "UID" varchar(128) , 
                 "TheKey" varchar(1024) , 
  . 
-2- users : "ID" int(11) , 
+2- users : "ID" int(11) ,  
            "UserID" varchar(50) , 
            "Name" varchar(50) , 
            "Password" varchar(50) , 
